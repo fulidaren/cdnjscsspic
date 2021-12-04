@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error>
-  <Code>NoSuchKey</Code>
-  <Message>The specified key does not exist.</Message>
-  <RequestId>5EFEB05DB3B1C73431304A65</RequestId>
-  <HostId>node-web-resource.oss-cn-hangzhou.aliyuncs.com</HostId>
-  <Key>kanman_pc/static/style/images/read-kuang@2x.png);-webkit-background-size:auto 100%;-moz-background-size:auto 100%;background-size:auto 100%;background-repeat:no-repeat;background-position:50%}.guess-sidebar .sidebar-main .sidebar-list .sidebar-item .floater .title{height:20px;font-size:14px;font-weight:400;line-height:20px;color:</Key>
-</Error>
