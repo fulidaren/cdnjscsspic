@@ -1,0 +1,194 @@
+.member-top {
+    position: relative;
+    width: 100%;
+    padding: 3em 0 1em;
+    background: url("../images/user/bg_kanmanhua.png");
+    background-size: contain;
+}
+
+.member-top .cont {
+    margin: 0 auto;
+    text-align: center;
+    color: #fff;
+    line-height: 2em;
+    font-size: 0.9em;
+}
+
+.member-top .cont img {
+    width: 3.5em;
+    height: 3.5em;
+    margin: 0 auto;
+    padding: 2px;
+    border-radius: 50%;
+    border: 1px solid #ffe9eb;
+}
+
+.member-top .cont a {
+    color: #fff;
+}
+
+.member-top .go-login {
+    border: 1px solid #fff;
+    padding: 0.7em 2em;
+    color: #fff;
+    margin-top: 1em;
+}
+
+.meb-info {
+    width: 300px;
+    margin: 15px auto 0;
+}
+
+.meb-info span {
+    display: inline-block;
+    margin: 0.5em;
+    width: 10.5em;
+    border: 1px solid #ffb3b5;
+    border-radius: 13px;
+    font-size: 1em;
+    color: #fff;
+}
+
+.meb-info span:nth-child(2n-1) {
+    margin-left: 0.9em;
+}
+
+.meb-info a {
+    color: #fff;
+}
+
+.member-main {
+    width: 100%;
+    margin: 1em 0;
+    border-bottom: 1px solid #ececec;
+    border-top: 1px solid #ececec;
+    padding-bottom: 1.7066666667rem;
+}
+
+.member-main ul {
+    width: 98%;
+    padding-left: 2%;
+    background: #fff;
+}
+
+.member-main ul li {
+    padding: 0.8em 0;
+    width: 100%;
+    border-bottom: 1px solid #ececec;
+    text-align: left;
+    font-size: 1.2em;
+    background: url("../images/user/go-to.png") 96% center no-repeat;
+    background-size: 0.7em;
+}
+
+.member-main ul li:last-child {
+    border-bottom: none;
+}
+
+.member-main ul li a {
+    display: block;
+}
+
+.member-main ul li i {
+    display: inline-block;
+    width: 1.2em;
+    height: 1.2em;
+    background-size: 99%;
+    vertical-align: text-bottom;
+    margin-right: 1em;
+}
+
+.mb-nav {
+    padding: 0.6em 0 0.6em 2%;
+    background: #fff;
+}
+
+.mb-nav ul li {
+    display: inline-block;
+    text-align: center;
+    font-size: 0.84em;
+    width: 19%;
+    margin: 0 2%;
+}
+
+.mb-nav ul li i {
+    display: block;
+    width: 1.8em;
+    height: 1.8em;
+    background-size: 99%;
+    margin: 0 auto;
+}
+
+i.mb-user {
+    background: url("../images/user/mb-user.png") no-repeat;
+}
+
+i.mb-back {
+    background: url("../images/user/mb-back.png") no-repeat;
+}
+
+i.mb-collect {
+    background: url("../images/user/mb-collect.png") no-repeat;
+}
+
+i.mb-cart {
+    background: url("../images/user/mb-cart.png") no-repeat;
+}
+
+i.mb-myorder {
+    background: url("../images/user/mb-myorder.png") no-repeat;
+}
+
+i.mb-credit {
+    background: url("../images/user/mb-credit.png") no-repeat;
+}
+
+i.mb-chongzhi {
+    background: url("../images/user/chongzhi.png") no-repeat;
+}
+
+i.mb-jifen {
+    background: url("../images/user/jifen.png") no-repeat;
+}
+
+i.mb-tixian {
+    background: url("../images/user/tixian.png") no-repeat;
+}
+
+i.mb-tuichu {
+    background: url("../images/user/tuichu.png") no-repeat;
+}
+
+i.mb-fenxiao {
+    background: url("../images/user/fenxiao.png") no-repeat;
+}
+
+i.mb-vip {
+    background: url("../images/user/vip.png") no-repeat;
+}
+
+i.mb-send {
+    background: url("../images/user/mb-send.png") no-repeat;
+}
+
+i.mb-receive {
+    background: url("../images/user/mb-receive.png") no-repeat;
+}
+
+i.mb-send {
+    background: url("../images/user/mb-send.png") no-repeat;
+}
+
+i.mb-ok {
+    background: url("../images/user/mb-ok.png") no-repeat;
+}
+
+.sign-out {
+    position: absolute;
+    padding-right: 25px;
+    top: 1em;
+    right: 4%;
+    background: url("../images/user/sign-out.png") center right no-repeat;
+    background-size: 20px;
+    color: #fff;
+}

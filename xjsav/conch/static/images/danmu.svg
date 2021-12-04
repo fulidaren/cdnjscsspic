@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>弹幕切图</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="61.9808239%" y1="111.208954%" x2="61.9808108%" y2="-7.0204281%" id="linearGradient-1">
+            <stop stop-color="#FFB6C4" offset="0%"></stop>
+            <stop stop-color="#FC4F71" offset="44.4048049%"></stop>
+            <stop stop-color="#FC6976" offset="100%"></stop>
+        </linearGradient>
+        <path d="M32,4 C47.463973,4 60,16.536027 60,32 C60,47.463973 47.463973,60 32,60 C16.536027,60 4,47.463973 4,32 C4,16.536027 16.536027,4 32,4 Z" id="path-2"></path>
+        <filter x="-10.7%" y="-10.7%" width="121.4%" height="121.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.709803922   0 0 0 0 0.764705882  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="看漫画-默认状态" transform="translate(-1560.000000, -647.000000)">
+            <g id="编组-4" transform="translate(1560.000000, 647.000000)">
+                <g id="弹幕切图">
+                    <g id="Mask" transform="translate(32.000000, 32.000000) scale(1, -1) translate(-32.000000, -32.000000) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="弹幕睁眼" transform="translate(16.000000, 8.000000)" fill="#FFFFFF">
+                        <g id="Group" transform="translate(-0.072271, 0.000000)">
+                            <g id="Group-2" transform="translate(2.400000, 0.000000)">
+                                <path d="M26.6090696,19.7574356 C24.9789308,23.2706647 21.7008138,23.4234378 17.1071084,23.430114 L8.84476202,23.4303832 C8.46467522,23.4303832 8.09135483,23.4014128 7.72688854,23.3455596 C4.80410447,23.1325205 2.66376939,22.3844223 1.44484718,19.7574356 C-1.77342864,12.8214986 4.81216841,-0.132512442 7.27607884,0.144206678 C8.56726859,0.289218805 9.7302564,2.01298964 10.7650423,5.31551918 L17.2888745,5.31551918 C18.3236604,2.01298964 19.4866482,0.289218805 20.777838,0.144206678 C23.2417484,-0.132512442 29.8273454,12.8214986 26.6090696,19.7574356 Z M7.23968497,12.3237305 C5.409793,12.3237305 3.92637247,13.4870468 3.92637247,14.9220703 C3.92637247,16.3570938 5.409793,17.5204102 7.23968497,17.5204102 C9.06957693,17.5204102 10.5529975,16.3570938 10.5529975,14.9220703 C10.5529975,13.4870468 9.06957693,12.3237305 7.23968497,12.3237305 Z M21.3212631,12.3237305 C19.4913711,12.3237305 18.0079506,13.4870468 18.0079506,14.9220703 C18.0079506,16.3570938 19.4913711,17.5204102 21.3212631,17.5204102 C23.1511551,17.5204102 24.6345756,16.3570938 24.6345756,14.9220703 C24.6345756,13.4870468 23.1511551,12.3237305 21.3212631,12.3237305 Z" id="Combined-Shape"></path>
+                                <path d="M7.82508839,22.6303832 L20.3878761,22.6303832 C22.7570827,22.6303832 24.677704,24.5510046 24.677704,26.9202111 C24.677704,29.2894176 22.7570827,31.210039 20.3878761,31.210039 L7.82508839,31.210039 C5.45588187,31.210039 3.5352605,29.2894176 3.5352605,26.9202111 C3.5352605,24.5510046 5.45588187,22.6303832 7.82508839,22.6303832 Z" id="Combined-Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
