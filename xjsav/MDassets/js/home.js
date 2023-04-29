@@ -681,12 +681,11 @@ var MAC={
 					title:'提示',btn: ['确定','取消'] //按钮
 				}, function(){
 					MAC.Ajax(maccms.path + '/index.php/user/ajax_buy_popedom.html?id=' + $that.attr("data-id") + '&mid=' + $that.attr("data-mid") + '&sid=' + $that.attr("data-sid") + '&nid=' + $that.attr("data-nid") + '&type=' + $that.attr("data-type"),'get','json','',function(r){
-                        $that.addClass('disabled');
+                        layer.closeAll('dialog');
                         MAC.Pop.Msg(300, 50, r.msg, 2000);
                         if (r.code == 1) {
                             top.location.reload();
                         }
-                        $that.removeClass('disabled');
                     });
 				});
             }
